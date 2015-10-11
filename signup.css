@@ -1,0 +1,89 @@
+div#container
+{
+   width: 800px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #F5F5F5;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 11px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#Signup1
+{
+   background-color: #DCDCDC;
+   border-color:#000000;
+   border-width:1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 15px;
+   text-align: right;
+   border-spacing: 4px;
+   width: 448px;
+   height: 236px;
+}
+.Signup1_header
+{
+   background-color: #000000;
+   color: #FFFFFF;
+   text-align: center;
+}
+.Signup1_input
+{
+   background-color: #FFFFFF;
+   border-color: #BFDBFF;
+   border-width: 1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 15px;
+   width: 160px;
+   height: 24px;
+}
+.Signup1_button
+{
+   background-color: #FFFFFF;
+   border-color: #BFDBFF;
+   border-width: 1px;
+   border-style: solid;
+   color: #000000;
+   font-family: Verdana;
+   font-weight: normal;
+   font-size: 15px;
+   width: 90px;
+   height: 20px;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   border: 0px #000000 none;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
